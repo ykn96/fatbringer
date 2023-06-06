@@ -2,7 +2,7 @@
 - 👀 I’m interested in surviving... i guess
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me here https://www.linkedin.com/in/kiat-nern-yeo-572a691b7/ 
+- 📫 How to reach me here < >
 
 <!---
 fatbringer/fatbringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
