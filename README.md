@@ -7,10 +7,18 @@
 # Skills and Technologies
 
 ## Programming languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,sublime,anaconda)](https://skillicons.dev)
+
+## Libraries
+[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,)](https://skillicons.dev)
+
+## Hardware
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
+
+
 
 <!---
 fatbringer/fatbringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
