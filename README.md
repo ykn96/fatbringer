@@ -10,7 +10,7 @@
 Due to the spread of my projects, I, for good or bad, have more breadth than depth in the stuff below. 
 
 ## Programming languages
-C, C++, Python, Java, Kotlin
+C, C++, Python, Java, Kotlin\n
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin)](https://skillicons.dev)
 
 ## Tools
