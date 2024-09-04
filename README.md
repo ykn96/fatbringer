@@ -4,7 +4,7 @@
 - 👀 I’m interested in Computer Vision, Machine Learning, Aritificial Intelligence, Information Fusion, Robotics and Medicine (though I wonder how do I get there?)
 - 🌱 I’m currently learning something... learning everything
 - 💞️ I’m looking to collaborate on everything. Because many brains together work better!
-- 📫 How to reach me here at < drop an issue >
+- 📫 How to reach me here at < drop an issue maybe?>
 
 # Skills and Technologies
 Due to the spread of my projects, I, for good or bad, have more breadth than depth in the stuff below. 
@@ -32,7 +32,7 @@ Arduino, ESP32, Raspberry Pi, NVIDIA Jetson TX2, AGX
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)    
 
 # Papers, please
-I was blessed with the opportunity to co-author several research papers. I love my work!      
+I was blessed with the opportunity to co-author several research papers. I love my work! Also shoutout to my awesome colleagues and supportive supervisors who gave me many opportunities to explore and research. It is my good fortune to meet them.      
 **Data fusion pipeline for UAV-Based Real-Time Night Crowd Counting for Public Safety** at International Conference on Information Fusion 2024   
 **Integrated Raman sensor smart robot for swift and remote on-site forensic analysis** at SPIE 2024    
 
