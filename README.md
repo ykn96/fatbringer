@@ -4,8 +4,13 @@
 - 💞️ I’m looking to collaborate on everything. Because many brains together work better!
 - 📫 How to reach me here at < drop an issue >
 
-## Skills and Technologies
-[![My Skills](https://skillicons.dev/icons?i=C,C++,Python,Java,wasm)](https://skillicons.dev)
+# Skills and Technologies
+
+## Programming languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
 
 <!---
 fatbringer/fatbringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
