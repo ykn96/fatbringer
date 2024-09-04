@@ -26,7 +26,10 @@ Due to the spread of my projects, I, for good or bad, have more breadth than dep
 - Arduino, ESP32, Raspberry Pi, NVIDIA Jetson TX2, AGX
 - [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 
-
+# Papers, please
+I was blessed with the opportunity to co-author several research papers. I love my work! 
+**Data fusion pipeline for UAV-Based Real-Time Night Crowd Counting for Public Safety** at International Conference on Information Fusion 2024
+**Integrated Raman sensor smart robot for swift and remote on-site forensic analysis** at SPIE 2024 
 
 <!---
 fatbringer/fatbringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
