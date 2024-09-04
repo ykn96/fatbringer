@@ -17,9 +17,12 @@ Due to the spread of my projects, I, for good or bad, have more breadth than dep
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,sublime,anaconda,sqlite)](https://skillicons.dev)
 
 ## Libraries, Frameworks etc. 
+- I mostly use pretrained models provided by others that uses pytorch
+- opencv is a staple
 [![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,ros)](https://skillicons.dev)
 
 ## Hardware
+- 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 
 
