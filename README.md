@@ -5,6 +5,7 @@
 - 📫 How to reach me here at < drop an issue >
 
 # Skills and Technologies
+Due to the spread of my projects, I, for good or bad, have more breadth than depth in the stuff below. 
 
 ## Programming languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin)](https://skillicons.dev)
