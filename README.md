@@ -11,10 +11,10 @@ Due to the spread of my projects, I, for good or bad, have more breadth than dep
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,sublime,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,sublime,anaconda, sqlite)](https://skillicons.dev)
 
-## Libraries
-[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,)](https://skillicons.dev)
+## Libraries, Frameworks etc. 
+[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,ros)](https://skillicons.dev)
 
 ## Hardware
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
