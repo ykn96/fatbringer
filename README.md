@@ -25,16 +25,22 @@ As a mechanical engineer, I am also trained in mechanical design tools and softw
 I mostly use pretrained models provided by others that uses pytorch    
 opencv is a staple.    
 Numpy is a staple under the hood     
-[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,ros)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,ros)](https://skillicons.dev)      
 
 ## Hardware
-Arduino, ESP32, Raspberry Pi, NVIDIA Jetson TX2, AGX    
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)    
+Arduino, ESP32, Raspberry Pi, NVIDIA Jetson TX2, NVIDIA AGX, DJI Manifold 2             
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)       
 
+<!---
 # Papers, please
-I was blessed with the opportunity to co-author several research papers. I love my work! Also shoutout to my awesome colleagues and supportive supervisors who gave me many opportunities to explore and research. It is my good fortune to meet them.      
-**Data fusion pipeline for UAV-Based Real-Time Night Crowd Counting for Public Safety** at International Conference on Information Fusion 2024   
-**Integrated Raman sensor smart robot for swift and remote on-site forensic analysis** at SPIE 2024    
+I was blessed with the opportunity to co-author several research papers. I love my work! Also shoutout to my awesome colleagues and supportive supervisors who gave me many opportunities to explore and research. It is my good fortune to meet them.         
+
+**Data fusion pipeline for UAV-Based Real-Time Night Crowd Counting for Public Safety**     
+Conference: International Conference on Information Fusion 2024, Venice, Italy, 2024   
+**Integrated Raman sensor smart robot for swift and remote on-site forensic analysis**    
+Conference:  SPIE 2024       
+--->
+
 
 <!---
 fatbringer/fatbringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
