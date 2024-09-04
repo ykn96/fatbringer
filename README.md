@@ -18,12 +18,13 @@ Due to the spread of my projects, I, for good or bad, have more breadth than dep
 
 ## Libraries, Frameworks etc. 
 - I mostly use pretrained models provided by others that uses pytorch
-- opencv is a staple
-[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,ros)](https://skillicons.dev)
+- opencv is a staple.
+- Numpy is a staple under the hood
+- [![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,ros)](https://skillicons.dev)
 
 ## Hardware
-- 
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
+- Arduino, ESP32, Raspberry Pi, NVIDIA Jetson TX2, AGX
+- [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 
 
 
