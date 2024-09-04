@@ -10,26 +10,31 @@
 Due to the spread of my projects, I, for good or bad, have more breadth than depth in the stuff below. 
 
 ## Programming languages
-- C, C++, Python, Java, Kotlin
-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin)](https://skillicons.dev)
+C, C++, Python, Java, Kotlin   
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin)](https://skillicons.dev)      
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,sublime,anaconda,sqlite)](https://skillicons.dev)
+Different projects call for different tools, and I slowly picked them up over time   
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,sublime,anaconda,sqlite)](https://skillicons.dev)    
+
+As a mechanical engineer, I am also trained in mechanical design tools and software. I also do 3D printing!
+- Solidworks, Fusion360, OnShape
+- 3D Printing: Cura, Flashforge
 
 ## Libraries, Frameworks etc. 
-- I mostly use pretrained models provided by others that uses pytorch
-- opencv is a staple.
-- Numpy is a staple under the hood
-- [![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,ros)](https://skillicons.dev)
+I mostly use pretrained models provided by others that uses pytorch    
+opencv is a staple.    
+Numpy is a staple under the hood     
+[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,ros)](https://skillicons.dev)    
 
 ## Hardware
-- Arduino, ESP32, Raspberry Pi, NVIDIA Jetson TX2, AGX
-- [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
+Arduino, ESP32, Raspberry Pi, NVIDIA Jetson TX2, AGX    
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)    
 
 # Papers, please
-I was blessed with the opportunity to co-author several research papers. I love my work! 
-**Data fusion pipeline for UAV-Based Real-Time Night Crowd Counting for Public Safety** at International Conference on Information Fusion 2024
-**Integrated Raman sensor smart robot for swift and remote on-site forensic analysis** at SPIE 2024 
+I was blessed with the opportunity to co-author several research papers. I love my work!      
+**Data fusion pipeline for UAV-Based Real-Time Night Crowd Counting for Public Safety** at International Conference on Information Fusion 2024   
+**Integrated Raman sensor smart robot for swift and remote on-site forensic analysis** at SPIE 2024    
 
 <!---
 fatbringer/fatbringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
