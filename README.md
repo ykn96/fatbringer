@@ -37,9 +37,11 @@ I was blessed with the opportunity to co-author several research papers. I love 
 
 **Data fusion pipeline for UAV-Based Real-Time Night Crowd Counting for Public Safety**     
 Conference: International Conference on Information Fusion 2024, Venice, Italy, 2024   
+DOI:10.23919/FUSION59988.2024.10706297
+
 **Integrated Raman sensor smart robot for swift and remote on-site forensic analysis**    
 Conference:  SPIE 2024       
-
+DOI:10.1117/12.3013201
 
 
 <!---
