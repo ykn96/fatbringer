@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fatbringer (YKN)
+- 👋 Hi, I’m @ykn96
 - Bachelor's in Mechanical Engineering (Highest Distinction) from the National University of Singapore in 2021
 - Second major in Innovation and Design 
 - 👀 I’m interested in Computer Vision, Machine Learning, Aritificial Intelligence, Information Fusion, Robotics and Medicine (though I wonder how do I get there? Should i do an MD? I had a 516 (130/128/129/129) on the MCAT from 2022)
