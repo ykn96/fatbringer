@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ykn96
 - Bachelor's in Mechanical Engineering (Highest Distinction) from the National University of Singapore in 2021
 - Second major in Innovation and Design 
-- 👀 I’m interested in Computer Vision, Machine Learning, Aritificial Intelligence, Information Fusion, Robotics and Medicine (though I wonder how do I get there? Should i do an MD? I had a 516 (130/128/129/129) on the MCAT from 2022)
+- 👀 I’m interested in Computer Vision, Machine Learning, Artificial Intelligence, Information Fusion, Robotics and Medicine (though I wonder how do I get there? Should i do an MD? I had a 516 (130/128/129/129) on the MCAT from 2022)
 - 🌱 I’m currently learning something... learning everything... learning computer science ... learning computer vision ... learning machine learning ... learning linear algebra ... learning basic math ... learning how to keep fit and healthy ... learning how to cook and eat well!
 - 💞️ I’m looking to collaborate on everything. Because many brains together work better!
 - 📫 How to reach me here at < drop an issue maybe?>
